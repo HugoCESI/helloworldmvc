@@ -1,4 +1,4 @@
-package fr.exia.helloworldmaven;
+package fr.exia.hellowordmaven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
